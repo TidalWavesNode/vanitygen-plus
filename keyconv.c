@@ -224,6 +224,7 @@ main(int argc, char **argv)
 					privtype_opt = 212;
 					break;
 			}
+			else	
 			if (strcmp(optarg, "PIVX")== 0) {
 				fprintf(stderr,
 					"Generating PIVX Address\n");
