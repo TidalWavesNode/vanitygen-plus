@@ -241,6 +241,7 @@ Current List of Available Coins for Address Generation
 |VPN | Vpncoin | V  |
 |VTC | Vertcoin | V  |
 |WDC | Worldcoin Global | W  |
+|WGR | Wagerr | W  |
 |WKC | Wankcoin | 1  |
 |WUBS | Dubstepcoin | D  |
 |XC | XCurrency | X  |
@@ -253,6 +254,7 @@ Current List of Available Coins for Address Generation
 
 **If you found this repo useful, please consider a donation.  Thank You!**  
 
+ * Donate Wagerr: WjQugSARj5Jn2QoB8GHM9rZ7DE1XfnR1Hp
  * Donate Bitcoin: 1egacySQXJA8bLHnFhdQQjZBLW1gxSAjc  
  * Donate Zcash or Zclassic: t1egacynGZDT9mTfmMSCG1yCaedq7bGTs1a  
  * Z-Address: zcashPngjXyQJUjePXH6wvg2vfHHngaZiYLmmDE2bp3PqMAPpErdfpbctug78P6m8xqKXyxX1dmfCYoUeJYfX8hDLSueuKL  
