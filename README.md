@@ -1,3 +1,5 @@
+*Added Wagerr Support! -TidalWaves
+
 -----
 Vanitygen PLUS!  
 -----
