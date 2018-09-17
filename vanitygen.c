@@ -580,7 +580,8 @@ main(int argc, char **argv)
 					addrtype = 30;
 					privtype = 212;
 					break;
-			}	
+			}
+			else
 			if (strcmp(optarg, "PIVX")== 0) {
 				fprintf(stderr,
 					"Generating PIVX Address\n");
