@@ -194,8 +194,9 @@ main(int argc, char **argv)
 					"VIPS : VIPSTARCOIN : V\n"
 					"VPN : Vpncoin : V\n"
 					"VTC : Vertcoin : V\n"
-					"WDC : Worldcoin Global : W\n"
+					"WGR : Wagerr : W\n"
 					"WKC : Wankcoin : 1\n"
+					"WDC : Worldcoin Global : W\n"
 					"WUBS : Dubstepcoin : D\n"
 					"XC : XCurrency : X\n"
 					"XPM : Primecoin : A\n"
@@ -216,6 +217,13 @@ main(int argc, char **argv)
 					break;
 			}
 			else
+			if (strcmp(optarg, "WGR")== 0) {
+				fprintf(stderr,
+					"Generating Wagerr Address\n");
+					addrtype_opt = 30
+					privtype_opt = 212;
+					break;
+			}
 			if (strcmp(optarg, "PIVX")== 0) {
 				fprintf(stderr,
 					"Generating PIVX Address\n");
