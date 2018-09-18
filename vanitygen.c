@@ -577,8 +577,8 @@ main(int argc, char **argv)
 			if (strcmp(optarg, "WGR")== 0) {
 				fprintf(stderr,
 					"Generating Wagerr Address\n");
-					addrtype = 30;
-					privtype = 212;
+					addrtype = 73;
+					privtype = 199;
 					break;
 			}
 			else
