@@ -1,4 +1,6 @@
-*Added Wagerr Support! -TidalWaves
+*Added Wagerr Support!
+
+If you appreciate my efforts please consider donating some WGR WagerrLiVo87tYRpLmwV3QJvB2sY58hS5f -TidalWaves
 
 -----
 Vanitygen PLUS!  
