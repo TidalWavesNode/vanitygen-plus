@@ -194,7 +194,7 @@ main(int argc, char **argv)
 					"VIPS : VIPSTARCOIN : V\n"
 					"VPN : Vpncoin : V\n"
 					"VTC : Vertcoin : V\n"
-					"WGR : Wagerr : W\n"
+					"WGR : Wagerr : L or K\n"
 					"WKC : Wankcoin : 1\n"
 					"WDC : Worldcoin Global : W\n"
 					"WUBS : Dubstepcoin : D\n"
