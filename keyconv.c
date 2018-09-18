@@ -220,8 +220,8 @@ main(int argc, char **argv)
 			if (strcmp(optarg, "WGR")== 0) {
 				fprintf(stderr,
 					"Generating Wagerr Address\n");
-					addrtype_opt = 30
-					privtype_opt = 212;
+					addrtype_opt = 73
+					privtype_opt = 199;
 					break;
 			}
 			else	
