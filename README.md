@@ -277,3 +277,6 @@ Current List of Available Coins for Address Generation
  * Donate GameCredits: Game1iVhBWDMvAUvJNHu3FQdEvEKLGKtSe  
  * Donate Crown: 1CRoWN8eNVfMjzVFuDybBsUaWd3zvBuXD7  
  * Donate Skeincoin: SUPerRFr4ZLW5D8ScbjjPW4aAq5cacwvY9  
+ 
+# Donations
+$WGR: WagerrLiVo87tYRpLmwV3QJvB2sY58hS5f
